@@ -1,0 +1,523 @@
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: list index out of range
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55bb0c1f55e3 <unknown>
+#1 0x55bb0beb80b7 <unknown>
+#2 0x55bb0bf05f53 <unknown>
+#3 0x55bb0bf06051 <unknown>
+#4 0x55bb0bf4b9c4 <unknown>
+#5 0x55bb0bf2cf1d <unknown>
+#6 0x55bb0bf48b3d <unknown>
+#7 0x55bb0bf2ccc3 <unknown>
+#8 0x55bb0bef80e4 <unknown>
+#9 0x55bb0bef90ae <unknown>
+#10 0x55bb0c1bbce1 <unknown>
+#11 0x55bb0c1bfb7e <unknown>
+#12 0x55bb0c1a94b5 <unknown>
+#13 0x55bb0c1c07d6 <unknown>
+#14 0x55bb0c18cdbf <unknown>
+#15 0x55bb0c1e3748 <unknown>
+#16 0x55bb0c1e3917 <unknown>
+#17 0x55bb0c1f4773 <unknown>
+#18 0x7f538ae94ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55bb0c1f55e3 <unknown>
+#1 0x55bb0beb80b7 <unknown>
+#2 0x55bb0bf05f53 <unknown>
+#3 0x55bb0bf06051 <unknown>
+#4 0x55bb0bf4b9c4 <unknown>
+#5 0x55bb0bf2cf1d <unknown>
+#6 0x55bb0bf48b3d <unknown>
+#7 0x55bb0bf2ccc3 <unknown>
+#8 0x55bb0bef80e4 <unknown>
+#9 0x55bb0bef90ae <unknown>
+#10 0x55bb0c1bbce1 <unknown>
+#11 0x55bb0c1bfb7e <unknown>
+#12 0x55bb0c1a94b5 <unknown>
+#13 0x55bb0c1c07d6 <unknown>
+#14 0x55bb0c18cdbf <unknown>
+#15 0x55bb0c1e3748 <unknown>
+#16 0x55bb0c1e3917 <unknown>
+#17 0x55bb0c1f4773 <unknown>
+#18 0x7f538ae94ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: list index out of range
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55ed160af5e3 <unknown>
+#1 0x55ed15d720b7 <unknown>
+#2 0x55ed15dbff53 <unknown>
+#3 0x55ed15dc0051 <unknown>
+#4 0x55ed15e059c4 <unknown>
+#5 0x55ed15de6f1d <unknown>
+#6 0x55ed15e02b3d <unknown>
+#7 0x55ed15de6cc3 <unknown>
+#8 0x55ed15db20e4 <unknown>
+#9 0x55ed15db30ae <unknown>
+#10 0x55ed16075ce1 <unknown>
+#11 0x55ed16079b7e <unknown>
+#12 0x55ed160634b5 <unknown>
+#13 0x55ed1607a7d6 <unknown>
+#14 0x55ed16046dbf <unknown>
+#15 0x55ed1609d748 <unknown>
+#16 0x55ed1609d917 <unknown>
+#17 0x55ed160ae773 <unknown>
+#18 0x7f0f60e94ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55ed160af5e3 <unknown>
+#1 0x55ed15d720b7 <unknown>
+#2 0x55ed15dbff53 <unknown>
+#3 0x55ed15dc0051 <unknown>
+#4 0x55ed15e059c4 <unknown>
+#5 0x55ed15de6f1d <unknown>
+#6 0x55ed15e02b3d <unknown>
+#7 0x55ed15de6cc3 <unknown>
+#8 0x55ed15db20e4 <unknown>
+#9 0x55ed15db30ae <unknown>
+#10 0x55ed16075ce1 <unknown>
+#11 0x55ed16079b7e <unknown>
+#12 0x55ed160634b5 <unknown>
+#13 0x55ed1607a7d6 <unknown>
+#14 0x55ed16046dbf <unknown>
+#15 0x55ed1609d748 <unknown>
+#16 0x55ed1609d917 <unknown>
+#17 0x55ed160ae773 <unknown>
+#18 0x7f0f60e94ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: list index out of range
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5588e4c295e3 <unknown>
+#1 0x5588e48ec0b7 <unknown>
+#2 0x5588e4939f53 <unknown>
+#3 0x5588e493a051 <unknown>
+#4 0x5588e497f9c4 <unknown>
+#5 0x5588e4960f1d <unknown>
+#6 0x5588e497cb3d <unknown>
+#7 0x5588e4960cc3 <unknown>
+#8 0x5588e492c0e4 <unknown>
+#9 0x5588e492d0ae <unknown>
+#10 0x5588e4befce1 <unknown>
+#11 0x5588e4bf3b7e <unknown>
+#12 0x5588e4bdd4b5 <unknown>
+#13 0x5588e4bf47d6 <unknown>
+#14 0x5588e4bc0dbf <unknown>
+#15 0x5588e4c17748 <unknown>
+#16 0x5588e4c17917 <unknown>
+#17 0x5588e4c28773 <unknown>
+#18 0x7f3aaea94ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/osmo-mini-tripod?from=site-nav&vid=153411
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x5588e4c295e3 <unknown>
+#1 0x5588e48ec0b7 <unknown>
+#2 0x5588e4939f53 <unknown>
+#3 0x5588e493a051 <unknown>
+#4 0x5588e497f9c4 <unknown>
+#5 0x5588e4960f1d <unknown>
+#6 0x5588e497cb3d <unknown>
+#7 0x5588e4960cc3 <unknown>
+#8 0x5588e492c0e4 <unknown>
+#9 0x5588e492d0ae <unknown>
+#10 0x5588e4befce1 <unknown>
+#11 0x5588e4bf3b7e <unknown>
+#12 0x5588e4bdd4b5 <unknown>
+#13 0x5588e4bf47d6 <unknown>
+#14 0x5588e4bc0dbf <unknown>
+#15 0x5588e4c17748 <unknown>
+#16 0x5588e4c17917 <unknown>
+#17 0x5588e4c28773 <unknown>
+#18 0x7f3aaea94ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[class*='style__price']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55cacddf75e3 <unknown>
+#1 0x55cacdaba0b7 <unknown>
+#2 0x55cacdb07f53 <unknown>
+#3 0x55cacdb08051 <unknown>
+#4 0x55cacdb4d9c4 <unknown>
+#5 0x55cacdb2ef1d <unknown>
+#6 0x55cacdb4ab3d <unknown>
+#7 0x55cacdb2ecc3 <unknown>
+#8 0x55cacdafa0e4 <unknown>
+#9 0x55cacdafb0ae <unknown>
+#10 0x55cacddbdce1 <unknown>
+#11 0x55cacddc1b7e <unknown>
+#12 0x55cacddab4b5 <unknown>
+#13 0x55cacddc27d6 <unknown>
+#14 0x55cacdd8edbf <unknown>
+#15 0x55cacdde5748 <unknown>
+#16 0x55cacdde5917 <unknown>
+#17 0x55cacddf6773 <unknown>
+#18 0x7f71e7894ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//meta[@name='ean']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55cacddf75e3 <unknown>
+#1 0x55cacdaba0b7 <unknown>
+#2 0x55cacdb07f53 <unknown>
+#3 0x55cacdb08051 <unknown>
+#4 0x55cacdb4d9c4 <unknown>
+#5 0x55cacdb2ef1d <unknown>
+#6 0x55cacdb4ab3d <unknown>
+#7 0x55cacdb2ecc3 <unknown>
+#8 0x55cacdafa0e4 <unknown>
+#9 0x55cacdafb0ae <unknown>
+#10 0x55cacddbdce1 <unknown>
+#11 0x55cacddc1b7e <unknown>
+#12 0x55cacddab4b5 <unknown>
+#13 0x55cacddc27d6 <unknown>
+#14 0x55cacdd8edbf <unknown>
+#15 0x55cacdde5748 <unknown>
+#16 0x55cacdde5917 <unknown>
+#17 0x55cacddf6773 <unknown>
+#18 0x7f71e7894ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: list index out of range
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Take a Closer Look']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55cacddf75e3 <unknown>
+#1 0x55cacdaba0b7 <unknown>
+#2 0x55cacdb07f53 <unknown>
+#3 0x55cacdb08051 <unknown>
+#4 0x55cacdb4d9c4 <unknown>
+#5 0x55cacdb2ef1d <unknown>
+#6 0x55cacdb4ab3d <unknown>
+#7 0x55cacdb2ecc3 <unknown>
+#8 0x55cacdafa0e4 <unknown>
+#9 0x55cacdafb0ae <unknown>
+#10 0x55cacddbdce1 <unknown>
+#11 0x55cacddc1b7e <unknown>
+#12 0x55cacddab4b5 <unknown>
+#13 0x55cacddc27d6 <unknown>
+#14 0x55cacdd8edbf <unknown>
+#15 0x55cacdde5748 <unknown>
+#16 0x55cacdde5917 <unknown>
+#17 0x55cacddf6773 <unknown>
+#18 0x7f71e7894ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55cacddf75e3 <unknown>
+#1 0x55cacdaba0b7 <unknown>
+#2 0x55cacdb07f53 <unknown>
+#3 0x55cacdb08051 <unknown>
+#4 0x55cacdb4d9c4 <unknown>
+#5 0x55cacdb2ef1d <unknown>
+#6 0x55cacdb4ab3d <unknown>
+#7 0x55cacdb2ecc3 <unknown>
+#8 0x55cacdafa0e4 <unknown>
+#9 0x55cacdafb0ae <unknown>
+#10 0x55cacddbdce1 <unknown>
+#11 0x55cacddc1b7e <unknown>
+#12 0x55cacddab4b5 <unknown>
+#13 0x55cacddc27d6 <unknown>
+#14 0x55cacdd8edbf <unknown>
+#15 0x55cacdde5748 <unknown>
+#16 0x55cacdde5917 <unknown>
+#17 0x55cacddf6773 <unknown>
+#18 0x7f71e7894ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55cacddf75e3 <unknown>
+#1 0x55cacdaba0b7 <unknown>
+#2 0x55cacdb07f53 <unknown>
+#3 0x55cacdb08051 <unknown>
+#4 0x55cacdb4d9c4 <unknown>
+#5 0x55cacdb2ef1d <unknown>
+#6 0x55cacdb4ab3d <unknown>
+#7 0x55cacdb2ecc3 <unknown>
+#8 0x55cacdafa0e4 <unknown>
+#9 0x55cacdafb0ae <unknown>
+#10 0x55cacddbdce1 <unknown>
+#11 0x55cacddc1b7e <unknown>
+#12 0x55cacddab4b5 <unknown>
+#13 0x55cacddc27d6 <unknown>
+#14 0x55cacdd8edbf <unknown>
+#15 0x55cacdde5748 <unknown>
+#16 0x55cacdde5917 <unknown>
+#17 0x55cacddf6773 <unknown>
+#18 0x7f71e7894ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[class*='style__price']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55acf767c5e3 <unknown>
+#1 0x55acf733f0b7 <unknown>
+#2 0x55acf738cf53 <unknown>
+#3 0x55acf738d051 <unknown>
+#4 0x55acf73d29c4 <unknown>
+#5 0x55acf73b3f1d <unknown>
+#6 0x55acf73cfb3d <unknown>
+#7 0x55acf73b3cc3 <unknown>
+#8 0x55acf737f0e4 <unknown>
+#9 0x55acf73800ae <unknown>
+#10 0x55acf7642ce1 <unknown>
+#11 0x55acf7646b7e <unknown>
+#12 0x55acf76304b5 <unknown>
+#13 0x55acf76477d6 <unknown>
+#14 0x55acf7613dbf <unknown>
+#15 0x55acf766a748 <unknown>
+#16 0x55acf766a917 <unknown>
+#17 0x55acf767b773 <unknown>
+#18 0x7fcf69494ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//meta[@name='ean']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55acf767c5e3 <unknown>
+#1 0x55acf733f0b7 <unknown>
+#2 0x55acf738cf53 <unknown>
+#3 0x55acf738d051 <unknown>
+#4 0x55acf73d29c4 <unknown>
+#5 0x55acf73b3f1d <unknown>
+#6 0x55acf73cfb3d <unknown>
+#7 0x55acf73b3cc3 <unknown>
+#8 0x55acf737f0e4 <unknown>
+#9 0x55acf73800ae <unknown>
+#10 0x55acf7642ce1 <unknown>
+#11 0x55acf7646b7e <unknown>
+#12 0x55acf76304b5 <unknown>
+#13 0x55acf76477d6 <unknown>
+#14 0x55acf7613dbf <unknown>
+#15 0x55acf766a748 <unknown>
+#16 0x55acf766a917 <unknown>
+#17 0x55acf767b773 <unknown>
+#18 0x7fcf69494ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: list index out of range
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Take a Closer Look']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55acf767c5e3 <unknown>
+#1 0x55acf733f0b7 <unknown>
+#2 0x55acf738cf53 <unknown>
+#3 0x55acf738d051 <unknown>
+#4 0x55acf73d29c4 <unknown>
+#5 0x55acf73b3f1d <unknown>
+#6 0x55acf73cfb3d <unknown>
+#7 0x55acf73b3cc3 <unknown>
+#8 0x55acf737f0e4 <unknown>
+#9 0x55acf73800ae <unknown>
+#10 0x55acf7642ce1 <unknown>
+#11 0x55acf7646b7e <unknown>
+#12 0x55acf76304b5 <unknown>
+#13 0x55acf76477d6 <unknown>
+#14 0x55acf7613dbf <unknown>
+#15 0x55acf766a748 <unknown>
+#16 0x55acf766a917 <unknown>
+#17 0x55acf767b773 <unknown>
+#18 0x7fcf69494ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55acf767c5e3 <unknown>
+#1 0x55acf733f0b7 <unknown>
+#2 0x55acf738cf53 <unknown>
+#3 0x55acf738d051 <unknown>
+#4 0x55acf73d29c4 <unknown>
+#5 0x55acf73b3f1d <unknown>
+#6 0x55acf73cfb3d <unknown>
+#7 0x55acf73b3cc3 <unknown>
+#8 0x55acf737f0e4 <unknown>
+#9 0x55acf73800ae <unknown>
+#10 0x55acf7642ce1 <unknown>
+#11 0x55acf7646b7e <unknown>
+#12 0x55acf76304b5 <unknown>
+#13 0x55acf76477d6 <unknown>
+#14 0x55acf7613dbf <unknown>
+#15 0x55acf766a748 <unknown>
+#16 0x55acf766a917 <unknown>
+#17 0x55acf767b773 <unknown>
+#18 0x7fcf69494ac3 <unknown>
+
+
+URL: https://www.dji.com/pt/mic-2
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55acf767c5e3 <unknown>
+#1 0x55acf733f0b7 <unknown>
+#2 0x55acf738cf53 <unknown>
+#3 0x55acf738d051 <unknown>
+#4 0x55acf73d29c4 <unknown>
+#5 0x55acf73b3f1d <unknown>
+#6 0x55acf73cfb3d <unknown>
+#7 0x55acf73b3cc3 <unknown>
+#8 0x55acf737f0e4 <unknown>
+#9 0x55acf73800ae <unknown>
+#10 0x55acf7642ce1 <unknown>
+#11 0x55acf7646b7e <unknown>
+#12 0x55acf76304b5 <unknown>
+#13 0x55acf76477d6 <unknown>
+#14 0x55acf7613dbf <unknown>
+#15 0x55acf766a748 <unknown>
+#16 0x55acf766a917 <unknown>
+#17 0x55acf767b773 <unknown>
+#18 0x7fcf69494ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic?vid=120111
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"./div/button"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x557115e275e3 <unknown>
+#1 0x557115aea0b7 <unknown>
+#2 0x557115b37f53 <unknown>
+#3 0x557115b38051 <unknown>
+#4 0x557115b2bb36 <unknown>
+#5 0x557115b5ef1d <unknown>
+#6 0x557115b2ba02 <unknown>
+#7 0x557115b5f0be <unknown>
+#8 0x557115b7ab3d <unknown>
+#9 0x557115b5ecc3 <unknown>
+#10 0x557115b2a0e4 <unknown>
+#11 0x557115b2b0ae <unknown>
+#12 0x557115dedce1 <unknown>
+#13 0x557115df1b7e <unknown>
+#14 0x557115ddb4b5 <unknown>
+#15 0x557115df27d6 <unknown>
+#16 0x557115dbedbf <unknown>
+#17 0x557115e15748 <unknown>
+#18 0x557115e15917 <unknown>
+#19 0x557115e26773 <unknown>
+#20 0x7faae4294ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic?vid=120111
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"./div/button"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55796497d5e3 <unknown>
+#1 0x5579646400b7 <unknown>
+#2 0x55796468df53 <unknown>
+#3 0x55796468e051 <unknown>
+#4 0x557964681b36 <unknown>
+#5 0x5579646b4f1d <unknown>
+#6 0x557964681a02 <unknown>
+#7 0x5579646b50be <unknown>
+#8 0x5579646d0b3d <unknown>
+#9 0x5579646b4cc3 <unknown>
+#10 0x5579646800e4 <unknown>
+#11 0x5579646810ae <unknown>
+#12 0x557964943ce1 <unknown>
+#13 0x557964947b7e <unknown>
+#14 0x5579649314b5 <unknown>
+#15 0x5579649487d6 <unknown>
+#16 0x557964914dbf <unknown>
+#17 0x55796496b748 <unknown>
+#18 0x55796496b917 <unknown>
+#19 0x55796497c773 <unknown>
+#20 0x7f8bf1094ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic?vid=120111
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"./div/button"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x555680ccf5e3 <unknown>
+#1 0x5556809920b7 <unknown>
+#2 0x5556809dff53 <unknown>
+#3 0x5556809e0051 <unknown>
+#4 0x5556809d3b36 <unknown>
+#5 0x555680a06f1d <unknown>
+#6 0x5556809d3a02 <unknown>
+#7 0x555680a070be <unknown>
+#8 0x555680a22b3d <unknown>
+#9 0x555680a06cc3 <unknown>
+#10 0x5556809d20e4 <unknown>
+#11 0x5556809d30ae <unknown>
+#12 0x555680c95ce1 <unknown>
+#13 0x555680c99b7e <unknown>
+#14 0x555680c834b5 <unknown>
+#15 0x555680c9a7d6 <unknown>
+#16 0x555680c66dbf <unknown>
+#17 0x555680cbd748 <unknown>
+#18 0x555680cbd917 <unknown>
+#19 0x555680cce773 <unknown>
+#20 0x7f9a63294ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic?vid=120111
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"./div/button"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55f8e6dbd5e3 <unknown>
+#1 0x55f8e6a800b7 <unknown>
+#2 0x55f8e6acdf53 <unknown>
+#3 0x55f8e6ace051 <unknown>
+#4 0x55f8e6ac1b36 <unknown>
+#5 0x55f8e6af4f1d <unknown>
+#6 0x55f8e6ac1a02 <unknown>
+#7 0x55f8e6af50be <unknown>
+#8 0x55f8e6b10b3d <unknown>
+#9 0x55f8e6af4cc3 <unknown>
+#10 0x55f8e6ac00e4 <unknown>
+#11 0x55f8e6ac10ae <unknown>
+#12 0x55f8e6d83ce1 <unknown>
+#13 0x55f8e6d87b7e <unknown>
+#14 0x55f8e6d714b5 <unknown>
+#15 0x55f8e6d887d6 <unknown>
+#16 0x55f8e6d54dbf <unknown>
+#17 0x55f8e6dab748 <unknown>
+#18 0x55f8e6dab917 <unknown>
+#19 0x55f8e6dbc773 <unknown>
+#20 0x7ff76a094ac3 <unknown>
+
+
