@@ -87,8 +87,4 @@ def scrape_url(url):
     )
 
 
-print(
-    scrape_url(
-        "https://store.dji.com/nl/product/dji-mavic-3e-and-dji-care-enterprise-basic"
-    )
-)
+get_urls()
