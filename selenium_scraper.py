@@ -54,7 +54,7 @@ def get_marked_urls():
     urls_df = read_excel("urls.xlsx")
 
     # Filter rows where the second column has 'x'
-    marked_urls_df = urls_df[urls_df.iloc[:, 1] == "x"]
+    marked_urls_df = urls_df[urls_df.iloc[:, 1] != "x"]
 
     # Return the filtered URLs
     return marked_urls_df["URLs"].tolist()
