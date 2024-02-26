@@ -138,6 +138,37 @@ def get_in_the_box_data(driver):
     return box_images, box_descriptions
 
 
+def get_a_closer_look_images(driver):
+    closer_look_box_images = []
+    closer_look_box_titles = []
+    closer_look_box_descriptions = []
+
+    closer_look = driver.find_element(By.XPATH, "//h3[text()='Take a Closer Look']")
+    driver.execute_script("arguments[0].scrollIntoView(true);", closer_look)
+
+    # retrieve the <section> parent element of closer_look
+    section = closer_look.find_element(By.XPATH, "./..")
+
+    # the section has a bunch of <li> elements with the partial class index__item
+    items = section.find_elements(By.CSS_SELECTOR, "li[class*='index__item']")
+    items = [
+        item
+        for item in items
+        if item.find_elements(By.CSS_SELECTOR, "span > div > img")
+    ]
+
+    # find all the items that have a span.div.img
+    for item in items:
+        img = item.find_element(By.CSS_SELECTOR, "span > div > img")
+        closer_look_box_images.append(img.get_attribute("src"))
+        title = item.find_element(By.CSS_SELECTOR, "h4").text
+        closer_look_box_titles.append(title)
+        description = item.find_element(By.CSS_SELECTOR, "p").text
+        closer_look_box_descriptions.append(description)
+
+    return closer_look_box_images, closer_look_box_titles, closer_look_box_descriptions
+
+
 def get_QA(driver):
     qa = driver.find_element(By.XPATH, "//h3[text()='Let’s Answer Your Questions']")
     driver.execute_script("arguments[0].scrollIntoView(true);", qa)
@@ -204,6 +235,12 @@ def scrape_url(url, driver):
     highlights = run_method(get_highlights, driver)
     main_image_urls = run_method(get_main_image_urls, driver)
 
+    if any(main_image_urls):
+        main_image_url = main_image_urls[0]
+        main_image_urls = [
+            x for x in main_image_urls[1:] if not x.endswith("@small.jpg")
+        ]
+
     description_images = run_method(get_description_images, driver)
     img_box_data = run_method(get_img_box_data, driver)
     if img_box_data is not None:
@@ -225,6 +262,10 @@ def scrape_url(url, driver):
     else:
         questions, answers = None, None
 
+    closer_look_box_images, closer_look_box_titles, closer_look_box_descriptions = (
+        run_method(get_a_closer_look_images, driver)
+    )
+
     closer_look_data = run_method(get_closer_look, driver)
     if closer_look_data:
         closer_look_name = [key for key in closer_look_data.keys()]
@@ -242,10 +283,11 @@ def scrape_url(url, driver):
         "product_url": url,
         "ean": ean,
         "highlights": highlights,
+        "main_image_url": main_image_url,
         "main_image_urls": main_image_urls,
-        "description_images": description_images,
-        "description_text_title": description_text_title,
-        "description_text": description_text,
+        "description_images": description_images + closer_look_box_images,
+        "description_text_title": description_text_title + closer_look_box_titles,
+        "description_text": description_text + closer_look_box_descriptions,
         "box_images": box_images,
         "box_descriptions": box_descriptions,
         "questions": questions,
@@ -258,9 +300,11 @@ def scrape_url(url, driver):
 def run():
     driver = start_driver()
     urls = get_marked_urls()
-    # urls = [
-    #    "https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic"
-    # ]
+    urls = [
+        # "https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic"
+        "https://store.dji.com/pt/product/dji-mini-3-pro?vid=113961"
+        # "https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831"
+    ]
     for url in urls:
         scraped_data = scrape_url(url, driver)
         write_data_to_excel(scraped_data)

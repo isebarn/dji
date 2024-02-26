@@ -521,3 +521,189 @@ Stacktrace:
 #20 0x7ff76a094ac3 <unknown>
 
 
+URL: https://store.dji.com/pt/product/dji-mini-3-pro?vid=113961
+Error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"span > div > img"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55ace219d5e3 <unknown>
+#1 0x55ace1e600b7 <unknown>
+#2 0x55ace1eadf53 <unknown>
+#3 0x55ace1eae051 <unknown>
+#4 0x55ace1ea1b36 <unknown>
+#5 0x55ace1ed4f1d <unknown>
+#6 0x55ace1ea1a02 <unknown>
+#7 0x55ace1ed50be <unknown>
+#8 0x55ace1ef0b3d <unknown>
+#9 0x55ace1ed4cc3 <unknown>
+#10 0x55ace1ea00e4 <unknown>
+#11 0x55ace1ea10ae <unknown>
+#12 0x55ace2163ce1 <unknown>
+#13 0x55ace2167b7e <unknown>
+#14 0x55ace21514b5 <unknown>
+#15 0x55ace21687d6 <unknown>
+#16 0x55ace2134dbf <unknown>
+#17 0x55ace218b748 <unknown>
+#18 0x55ace218b917 <unknown>
+#19 0x55ace219c773 <unknown>
+#20 0x7f76c6094ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: list index out of range
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55c8ea7705e3 <unknown>
+#1 0x55c8ea4330b7 <unknown>
+#2 0x55c8ea480f53 <unknown>
+#3 0x55c8ea481051 <unknown>
+#4 0x55c8ea4c69c4 <unknown>
+#5 0x55c8ea4a7f1d <unknown>
+#6 0x55c8ea4c3b3d <unknown>
+#7 0x55c8ea4a7cc3 <unknown>
+#8 0x55c8ea4730e4 <unknown>
+#9 0x55c8ea4740ae <unknown>
+#10 0x55c8ea736ce1 <unknown>
+#11 0x55c8ea73ab7e <unknown>
+#12 0x55c8ea7244b5 <unknown>
+#13 0x55c8ea73b7d6 <unknown>
+#14 0x55c8ea707dbf <unknown>
+#15 0x55c8ea75e748 <unknown>
+#16 0x55c8ea75e917 <unknown>
+#17 0x55c8ea76f773 <unknown>
+#18 0x7f5d03494ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55c8ea7705e3 <unknown>
+#1 0x55c8ea4330b7 <unknown>
+#2 0x55c8ea480f53 <unknown>
+#3 0x55c8ea481051 <unknown>
+#4 0x55c8ea4c69c4 <unknown>
+#5 0x55c8ea4a7f1d <unknown>
+#6 0x55c8ea4c3b3d <unknown>
+#7 0x55c8ea4a7cc3 <unknown>
+#8 0x55c8ea4730e4 <unknown>
+#9 0x55c8ea4740ae <unknown>
+#10 0x55c8ea736ce1 <unknown>
+#11 0x55c8ea73ab7e <unknown>
+#12 0x55c8ea7244b5 <unknown>
+#13 0x55c8ea73b7d6 <unknown>
+#14 0x55c8ea707dbf <unknown>
+#15 0x55c8ea75e748 <unknown>
+#16 0x55c8ea75e917 <unknown>
+#17 0x55c8ea76f773 <unknown>
+#18 0x7f5d03494ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: list index out of range
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55813be075e3 <unknown>
+#1 0x55813baca0b7 <unknown>
+#2 0x55813bb17f53 <unknown>
+#3 0x55813bb18051 <unknown>
+#4 0x55813bb5d9c4 <unknown>
+#5 0x55813bb3ef1d <unknown>
+#6 0x55813bb5ab3d <unknown>
+#7 0x55813bb3ecc3 <unknown>
+#8 0x55813bb0a0e4 <unknown>
+#9 0x55813bb0b0ae <unknown>
+#10 0x55813bdcdce1 <unknown>
+#11 0x55813bdd1b7e <unknown>
+#12 0x55813bdbb4b5 <unknown>
+#13 0x55813bdd27d6 <unknown>
+#14 0x55813bd9edbf <unknown>
+#15 0x55813bdf5748 <unknown>
+#16 0x55813bdf5917 <unknown>
+#17 0x55813be06773 <unknown>
+#18 0x7fa2d3694ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55813be075e3 <unknown>
+#1 0x55813baca0b7 <unknown>
+#2 0x55813bb17f53 <unknown>
+#3 0x55813bb18051 <unknown>
+#4 0x55813bb5d9c4 <unknown>
+#5 0x55813bb3ef1d <unknown>
+#6 0x55813bb5ab3d <unknown>
+#7 0x55813bb3ecc3 <unknown>
+#8 0x55813bb0a0e4 <unknown>
+#9 0x55813bb0b0ae <unknown>
+#10 0x55813bdcdce1 <unknown>
+#11 0x55813bdd1b7e <unknown>
+#12 0x55813bdbb4b5 <unknown>
+#13 0x55813bdd27d6 <unknown>
+#14 0x55813bd9edbf <unknown>
+#15 0x55813bdf5748 <unknown>
+#16 0x55813bdf5917 <unknown>
+#17 0x55813be06773 <unknown>
+#18 0x7fa2d3694ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: list index out of range
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='In the Box']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55780ab3b5e3 <unknown>
+#1 0x55780a7fe0b7 <unknown>
+#2 0x55780a84bf53 <unknown>
+#3 0x55780a84c051 <unknown>
+#4 0x55780a8919c4 <unknown>
+#5 0x55780a872f1d <unknown>
+#6 0x55780a88eb3d <unknown>
+#7 0x55780a872cc3 <unknown>
+#8 0x55780a83e0e4 <unknown>
+#9 0x55780a83f0ae <unknown>
+#10 0x55780ab01ce1 <unknown>
+#11 0x55780ab05b7e <unknown>
+#12 0x55780aaef4b5 <unknown>
+#13 0x55780ab067d6 <unknown>
+#14 0x55780aad2dbf <unknown>
+#15 0x55780ab29748 <unknown>
+#16 0x55780ab29917 <unknown>
+#17 0x55780ab3a773 <unknown>
+#18 0x7fb830c94ac3 <unknown>
+
+
+URL: https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831
+Error: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h3[text()='Let’s Answer Your Questions']"}
+  (Session info: chrome=119.0.6045.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55780ab3b5e3 <unknown>
+#1 0x55780a7fe0b7 <unknown>
+#2 0x55780a84bf53 <unknown>
+#3 0x55780a84c051 <unknown>
+#4 0x55780a8919c4 <unknown>
+#5 0x55780a872f1d <unknown>
+#6 0x55780a88eb3d <unknown>
+#7 0x55780a872cc3 <unknown>
+#8 0x55780a83e0e4 <unknown>
+#9 0x55780a83f0ae <unknown>
+#10 0x55780ab01ce1 <unknown>
+#11 0x55780ab05b7e <unknown>
+#12 0x55780aaef4b5 <unknown>
+#13 0x55780ab067d6 <unknown>
+#14 0x55780aad2dbf <unknown>
+#15 0x55780ab29748 <unknown>
+#16 0x55780ab29917 <unknown>
+#17 0x55780ab3a773 <unknown>
+#18 0x7fb830c94ac3 <unknown>
+
+
