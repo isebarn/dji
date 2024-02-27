@@ -300,11 +300,11 @@ def scrape_url(url, driver):
 def run():
     driver = start_driver()
     urls = get_marked_urls()
-    urls = [
-        # "https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic"
-        "https://store.dji.com/pt/product/dji-mini-3-pro?vid=113961"
-        # "https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831"
-    ]
+    # urls = [
+    # "https://store.dji.com/pt/product/dji-mavic-3e-and-dji-care-enterprise-basic"
+    #    "https://store.dji.com/pt/product/dji-mini-3-pro?vid=113961"
+    # "https://store.dji.com/pt/product/d-rtk-2-high-precision-gnss-mobile-station?vid=102831"
+    # ]
     for url in urls:
         scraped_data = scrape_url(url, driver)
         write_data_to_excel(scraped_data)
